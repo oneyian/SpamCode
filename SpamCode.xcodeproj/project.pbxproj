@@ -25,8 +25,8 @@
 /* Begin PBXFileReference section */
 		88E37D8B1FF763DF00C735F1 /* SpamCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SpamCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		88E37D8E1FF763DF00C735F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		88E37D951FF7641700C735F1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
-		88E37D961FF7641700C735F1 /* README.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = README.png; sourceTree = "<group>"; };
+		88E37D951FF7641700C735F1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		88E37D961FF7641700C735F1 /* README.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = README.png; path = ../README.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
