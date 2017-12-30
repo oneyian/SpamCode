@@ -37,7 +37,6 @@ $ ./GenerateSpamCode \
 2. 压缩工程目录下所有 png 文件，`find . -iname "*.png" -exec echo {} \; -exec convert {} {} \;`
 
 ## 使用经验
-就我 2017-11 月的提交情况来看，只需要做如下修改就可以上马甲包了。
 1. 修改工程名
 2. 修改类名前缀
 3. 修改图片文件 Hash 值
