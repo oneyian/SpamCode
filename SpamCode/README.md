@@ -37,11 +37,20 @@ $ ./GenerateSpamCode \
 2. 压缩工程目录下所有 png 文件，`find . -iname "*.png" -exec echo {} \; -exec convert {} {} \;`
 
 ## 使用经验
+```
+/Users/imac/Desktop/App
+-ignoreDirNames Pods
+-spamCodeOut /Users/imac/Desktop/App/addCode addCode
+-handleXcassets
+-deleteComments
+```
 1. 修改工程名
-2. 修改类名前缀
-3. 修改图片文件 Hash 值
+2. 修改图片文件 Hash 值
+3. 生成垃圾代码
 4. 修改 .xcassets 中的图片文件名
-5. 用别的电脑打包
+5. 删除工程目录下 .h .m .swift 文件中的注释和空行
+6. 用别的电脑打包
+
 
 ## 已知问题
 - 生成的垃圾代码文件可能是 .m 文件中实现的私有类，编译垃圾代码可能会报错，删除该垃圾代码 .h .m 文件及可。
