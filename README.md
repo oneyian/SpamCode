@@ -1,6 +1,8 @@
 # SpamCode 垃圾代码生成器 
 `整理转载`
+
 原版：[KLGenerateSpamCode](https://github.com/klaus01/KLGenerateSpamCode)
+
 本工具用于应对苹果对重复应用的审核（Guideline 4.3 Design Spam），避免苹果机审检测概率。
 
 ## 主要功能
