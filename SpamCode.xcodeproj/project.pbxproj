@@ -23,6 +23,9 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		704FFA3D290937D5002D1D7C /* NameList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = NameList.plist; sourceTree = "<group>"; };
+		704FFA3E290937D5002D1D7C /* NewAPIList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = NewAPIList.plist; sourceTree = "<group>"; };
+		704FFA3F290937D5002D1D7C /* LocalAPIList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = LocalAPIList.plist; sourceTree = "<group>"; };
 		88E37D8B1FF763DF00C735F1 /* SpamCode */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SpamCode; sourceTree = BUILT_PRODUCTS_DIR; };
 		88E37D8E1FF763DF00C735F1 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		88E37D951FF7641700C735F1 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
@@ -59,9 +62,12 @@
 		88E37D8D1FF763DF00C735F1 /* SpamCode */ = {
 			isa = PBXGroup;
 			children = (
+				88E37D8E1FF763DF00C735F1 /* main.m */,
+				704FFA3F290937D5002D1D7C /* LocalAPIList.plist */,
+				704FFA3D290937D5002D1D7C /* NameList.plist */,
+				704FFA3E290937D5002D1D7C /* NewAPIList.plist */,
 				88E37D951FF7641700C735F1 /* README.md */,
 				88E37D961FF7641700C735F1 /* README.png */,
-				88E37D8E1FF763DF00C735F1 /* main.m */,
 			);
 			path = SpamCode;
 			sourceTree = "<group>";

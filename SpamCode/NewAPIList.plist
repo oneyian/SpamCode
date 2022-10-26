@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>newApi_checkDataSetUserPkIndexRight</string>
+	<string>newApi_deleteCommisInMDIRowControl</string>
+	<string>newApi_deleteDataSetMaxIDIndexFail</string>
+	<string>newApi_insertUserInfoInMediaIDRowSuccessfully</string>
+	<string>newApi_getDataCostUsernameMaxSuccess</string>
+	<string>newApi_uploadCommisWithMaxIDIndexFail</string>
+	<string>newApi_deleteCommonInUsernameIndexControl</string>
+	<string>newApi_insertCommisInMaxIDMiniFailed</string>
+	<string>newApi_hasUserInfoAndMediaIDCountFail</string>
+	<string>newApi_getInfoInMaxIDRowControl</string>
+</array>
+</plist>
