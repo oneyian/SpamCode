@@ -1,16 +1,12 @@
 # SpamCode 垃圾代码生成器 
-`整理转载`
-
-原版：[KLGenerateSpamCode](https://github.com/klaus01/KLGenerateSpamCode)
-
-本工具用于应对苹果对重复应用的审核（Guideline 4.3 Design Spam），避免苹果机审检测概率。
 
 ## 主要功能
 1. 修改工程名
-1. 修改类名前缀
-1. 扫描工程中的代码，生成同等数量的 Category 文件，文件中及是同等方法数量的垃圾代码。
-1. 修改 xxx.xcassets 文件夹中的 png 资源文件名。
-1. 删除代码中的所有注释和空行。
+2. 修改类名前缀
+3. 扫描工程中的代码，生成同等数量的 Category 文件，文件中及是同等方法数量的垃圾代码。
+4. 修改 xxx.xcassets 文件夹中的 png 资源文件名。
+5. 删除代码中的所有注释和空行。
+6. 随机添加垃圾代码，修改方法名前缀!
 
 ## 使用
 ### 使用源码
